@@ -9,7 +9,7 @@
 /* smaller cast line */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
 /* compact episode list */
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/episodelist/episodes_compactlist.css');
+/*@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/episodelist/episodes_compactlist.css');*/
 /* transparent top bar */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/header/header_transparent.css');
 /* login screen */
@@ -21,6 +21,6 @@
 /* type */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/type/colorful.css');
 /* title page */
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_simple.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_banner.css');
 /* progress bar */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/progress/floating.css');
