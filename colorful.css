@@ -5,7 +5,7 @@
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/base.css');
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/accentlist.css');
 /* rounding */
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/rounding_circlehover.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/rounding.css');
 /* smaller cast line */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
 /* compact episode list */
@@ -24,3 +24,10 @@
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_banner.css');
 /* progress bar */
 @import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/progress/floating.css');
+
+/*Style backdrop*/
+/*.backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}*/
+
+/*Accent and roundingd*/
+:root {--accent: 98, 121, 205;}
+:root {--rounding: 12px;}
